@@ -1,6 +1,6 @@
 ## Olá, Sou Roberto Valezi
 ### Em reconstrução
-/*
+
 <div>
   <a href="https://github.com/valezijr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valezijr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -23,7 +23,6 @@
   <a href = "mailto:valezi_jr@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roberto-valezi-jr-86080963 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/valezijr/valezijr/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/roberto-valezi/roberto-valezi/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-*/
