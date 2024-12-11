@@ -1,4 +1,6 @@
-Olá, Sou Roberto Valezi
+## Olá, Sou Roberto Valezi
+### Em reconstrução
+/*
 <div>
   <a href="https://github.com/valezijr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valezijr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -24,3 +26,4 @@ Olá, Sou Roberto Valezi
   ![Snake animation](https://github.com/valezijr/valezijr/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+*/
